@@ -37,7 +37,7 @@
     --color-border: #333333;
     --color-muted: #999999;
 
-    --main-bg-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../img/team_furia.webp");
+    --main-bg-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("../imgs/team_furia.webp");
 
     --font-title: 'Bebas Neue', sans-serif;
     --font-subtitle: 'Poppins', sans-serif;
